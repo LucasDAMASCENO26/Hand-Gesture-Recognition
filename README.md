@@ -14,3 +14,7 @@ To run this project, you'll need to have Python installed. You can install the r
 
 ```bash
 pip install opencv-python mediapipe
+
+## Contact
+Feel free to reach out if you have any questions or suggestions. You can contact me via LinkedIn: www.linkedin.com/in/lucas-santos-0245482b2
+email: lucas.damasceno.santos@icen.ufpa.br
